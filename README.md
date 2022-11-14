@@ -1,2 +1,7 @@
 # Hello-Git
-Hello :)
+**Hello :)**
+
+## to do list
+- [x]
+- [x]
+- [ ]
